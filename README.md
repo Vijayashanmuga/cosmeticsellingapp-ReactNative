@@ -1,11 +1,11 @@
-# Sample Snack app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+https://github.com/Vijayashanmuga/cosmeticsellingapp-ReactNative/assets/113011990/035c592e-6cc4-49aa-872a-2ec6db226431
+🌟 Welcome to our cosmetic selling app, where the latest trends and top-quality products are just a tap away! Dive into a world of beauty where you can explore a wide range of cosmetics from renowned brands, all conveniently available on your mobile device. 💄 Whether you're in search of skincare essentials, makeup must-haves, or fragrance favorites, our app has it all! With user-friendly navigation and seamless checkout, enhancing your beauty routine has never been easier. 💅 Discover your next beauty obsession with our cosmetic selling app today! ✨
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+https://github.com/Vijayashanmuga/cosmeticsellingapp-ReactNative/assets/113011990/92c13325-8b34-4794-9f04-3316a6bc8cb6
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![image](https://github.com/Vijayashanmuga/cosmeticsellingapp-ReactNative/assets/113011990/11c30d83-a1a5-4bae-8507-9c64bd70c299)
+![image](https://github.com/Vijayashanmuga/cosmeticsellingapp-ReactNative/assets/113011990/0d2f81b3-cbee-45db-8586-4e24ff200d86)
+![image](https://github.com/Vijayashanmuga/cosmeticsellingapp-ReactNative/assets/113011990/77263fc5-138b-4dcd-88fb-845a24b36cad)
