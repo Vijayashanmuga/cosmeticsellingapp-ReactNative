@@ -1,5 +1,5 @@
 
-https://github.com/Vijayashanmuga/cosmeticsellingapp-ReactNative/assets/113011990/035c592e-6cc4-49aa-872a-2ec6db226431
+
 🌟 Welcome to our cosmetic selling app, where the latest trends and top-quality products are just a tap away! Dive into a world of beauty where you can explore a wide range of cosmetics from renowned brands, all conveniently available on your mobile device. 💄 Whether you're in search of skincare essentials, makeup must-haves, or fragrance favorites, our app has it all! With user-friendly navigation and seamless checkout, enhancing your beauty routine has never been easier. 💅 Discover your next beauty obsession with our cosmetic selling app today! ✨
 
 
